@@ -1,0 +1,21 @@
+{
+  "numeric_features": [
+    "Days for shipment (scheduled)",
+    "Benefit per order",
+    "Sales per customer",
+    "Order Item Discount Rate",
+    "Order Item Product Price",
+    "Order Item Quantity",
+    "Order Item Profit Ratio"
+  ],
+  "categorical_features": [
+    "Type",
+    "Category Name",
+    "Customer Segment",
+    "Department Name",
+    "Market",
+    "Order Region",
+    "Shipping Mode"
+  ],
+  "target": "Late_delivery_risk"
+}
