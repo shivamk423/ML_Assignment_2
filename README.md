@@ -237,13 +237,14 @@ All metrics calculated: Accuracy, AUC, Precision, Recall, F1, MCC
 - (c) Evaluation metrics display ✓
 - (d) Confusion matrix & classification report ✓
 
-✅ **Step 7: BITS Virtual Lab Screenshot** - [To be added]
+✅ **Step 7: BITS Virtual Lab Screenshot** - 
 
 ---
 
 ## Screenshot (BITS Virtual Lab Execution)
 
-> **[Screenshot of assignment execution on BITS Virtual Lab to be added here as proof of work]**
+<img width="958" height="502" alt="image" src="https://github.com/user-attachments/assets/3e09ff6e-62d3-4936-ae62-2de29253ec84" />
+
 
 ---
 
