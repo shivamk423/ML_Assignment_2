@@ -243,6 +243,9 @@ All metrics calculated: Accuracy, AUC, Precision, Recall, F1, MCC
 
 ## Screenshot (BITS Virtual Lab Execution)
 
+<img width="959" height="500" alt="image" src="https://github.com/user-attachments/assets/dcdd1240-dc7b-4309-b105-cc151f3ca58f" />
+
+
 <img width="806" height="425" alt="image" src="https://github.com/user-attachments/assets/64e69e2a-54e2-4e6b-bada-5c6b9d092b6c" />
 
 
