@@ -3,7 +3,7 @@
 **Course:** M.Tech (AIML/DSE) — Machine Learning  
 **Submission Deadline:** 18-Aug-2026  
 **Student Name:** Shivam Kumar Singh  
-**Marks:** 15 
+**Stramlit.app:** https://mlassignment2shivam.streamlit.app/
 
 ---
 
@@ -55,7 +55,7 @@ This is framed as a **binary classification problem**: predict `Late_delivery_ri
 
 ## c. GitHub Repository Link
 
-**Repository:** https://github.com/2025da04127-shivam/ML_assignment2
+**Repository:** 
 
 Repository structure:
 ```
