@@ -247,6 +247,8 @@ All metrics calculated: Accuracy, AUC, Precision, Recall, F1, MCC
 
 <img width="957" height="500" alt="image" src="https://github.com/user-attachments/assets/82789f50-13e7-434a-a84b-1be41935c4fe" />
 
+<img width="958" height="497" alt="image" src="https://github.com/user-attachments/assets/971c4061-8e87-42f6-ae9e-5108ef0c2867" />
+
 ---
 
 ## Tech Stack
